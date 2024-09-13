@@ -140,8 +140,8 @@ Este projeto foi feito na NLW Pocket e consiste em uma aplicação full-stack qu
 
 ## Imagens de Demonstração
 
-![Preview do banco de dados](./path/to/preview_db.png)
-![Cadastro de Metas](./path/to/preview_1.png)
-![Resumo de Metas](./path/to/preview_2.png)
+![Cadastro de Metas](.github/preview_1.png)
+![Resumo de Metas](.github/preview_2.png)
+![Preview do banco de dados](.github/preview_db.png)
 
 ---
